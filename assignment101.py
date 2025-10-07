@@ -14,10 +14,10 @@ browser_combos = [
 
     {"platformName": "Windows 10", "browserName": "Chrome", "browserVersion": "114.0", "name": "SimpleForm_WinChrome"},
     {"platformName": "macOS Catalina", "browserName": "Safari", "browserVersion": "13.1", "name": "SimpleForm_macSafari"},
-    # Input Form Submit
+
     {"platformName": "Windows 10", "browserName": "Chrome", "browserVersion": "114.0", "name": "InputForm_WinChrome"},
     {"platformName": "macOS Catalina", "browserName": "Safari", "browserVersion": "13.1", "name": "InputForm_macSafari"},
-    # Drag & Drop Slider
+
     {"platformName": "Windows 10", "browserName": "Chrome", "browserVersion": "114.0", "name": "Slider_WinChrome"},
     {"platformName": "macOS Catalina", "browserName": "Safari", "browserVersion": "13.1", "name": "Slider_macSafari"}
 ]
